@@ -1,5 +1,42 @@
+
+header{
+  text-align:center;
+}
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 0;}
+  #image{
+    text-align: center;
+  }
+  .centre{
+    width: 800px;
+    text-align: center;
+  }
+  
+  figcaption{
+    text-align: center;
+    font-size:x-small
+  }
+  .ha{
+    padding-left:10px;
+  padding-right:10px;
+background-color: grey;
 }
+#details1{float: left;
+  background-color: red;
+  text-align:right;
+  width: 25%;
+}
+#details2{float: left;
+  background-color: red;
+  text-align:right;
+  width: 25%;}
+  #details3{float: left;
+    background-color: red;
+    text-align:right;
+    width: 25%;}
+    #details4{float: left;
+      background-color: red;
+      text-align:right;
+      width: 25%;}
